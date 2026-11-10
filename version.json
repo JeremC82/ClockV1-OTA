@@ -1,8 +1,8 @@
 {
- "version": "V1.33",
- "firmware": "Clock_V1.33.bin",
- "size": 1275664,
- "md5": "70e17fd74dfb92ac4d61dc6d8e662460",
+ "version": "V1.34",
+ "firmware": "Clock_V1.34.bin",
+ "size": 1280928,
+ "md5": "974b369542b1981ae2465a94ffcb11f5",
  "files": [
   {
    "name": "/Saint1.json",
@@ -54,7 +54,7 @@
   },
   {
    "name": "/index.html.gz",
-   "md5": "0a58933a305add25205347311778d0ac"
+   "md5": "f8cb9607480ec8a5c08828f04c13e3bd"
   }
  ],
  "delete": [
