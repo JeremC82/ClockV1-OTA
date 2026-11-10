@@ -1,0 +1,86 @@
+{
+ "version": "V1.30",
+ "firmware": "Clock_V1.30.bin",
+ "size": 1272544,
+ "md5": "73f147b1854d678fef280d6b70f730cf",
+ "files": [
+  {
+   "name": "/Saint1.json",
+   "md5": "e577a84a688b7b95cb81b8d288ca8867"
+  },
+  {
+   "name": "/Saint10.json",
+   "md5": "9c6665bb66f335350bb64d79d6b7671b"
+  },
+  {
+   "name": "/Saint11.json",
+   "md5": "1ae82c4955160bcd4f39f8650cffce3e"
+  },
+  {
+   "name": "/Saint12.json",
+   "md5": "952ec70c21b3ae4a6005b06ce11c4290"
+  },
+  {
+   "name": "/Saint2.json",
+   "md5": "c806de08b01055593e77ee65d726a10d"
+  },
+  {
+   "name": "/Saint3.json",
+   "md5": "8ecf877249ae720743a6d40220ef6295"
+  },
+  {
+   "name": "/Saint4.json",
+   "md5": "8e7efda95739ba8e9ef9ae448ce48862"
+  },
+  {
+   "name": "/Saint5.json",
+   "md5": "159e773ba2a78b742fcec721771c0b0f"
+  },
+  {
+   "name": "/Saint6.json",
+   "md5": "dbd7f1dfe5322f3fca084448aa1c4e43"
+  },
+  {
+   "name": "/Saint7.json",
+   "md5": "b3554b3c4db814c2357f740ce00578d2"
+  },
+  {
+   "name": "/Saint8.json",
+   "md5": "4548d21c469ef7e79724432d7723701b"
+  },
+  {
+   "name": "/Saint9.json",
+   "md5": "4e34e8b59b45805547ce8992ebed523a"
+  },
+  {
+   "name": "/index.html.gz",
+   "md5": "39d6fea17e469c6f00e556001776cda0"
+  }
+ ],
+ "delete": [
+  "/index.html",
+  "/index10.html",
+  "/pagemarees.html",
+  "/pagemeteo.html",
+  "/pagesaint.html",
+  "/pageveille.html",
+  "/preset.html",
+  "/system.html",
+  "/style.css",
+  "/meca.jpg",
+  "/iconmenu.png",
+  "/bck.html",
+  "/freemono.png",
+  "/freemonobold.png",
+  "/freemonoboldoblique.png",
+  "/freemonooblique.png",
+  "/freesans.png",
+  "/freesansbold.png",
+  "/freesansboldoblique.png",
+  "/freesansoblique.png",
+  "/freeserif.png",
+  "/freeserifbold.png",
+  "/freeserifbolditalic.png",
+  "/freeserifitalic.png"
+ ]
+}
