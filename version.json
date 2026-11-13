@@ -1,8 +1,8 @@
 {
- "version": "V1.55",
- "firmware": "Clock_V1.55.bin",
+ "version": "V1.56",
+ "firmware": "Clock_V1.56.bin",
  "size": 1310336,
- "md5": "07e84918138c0ed79d0bdb771abe8417",
+ "md5": "18edd4ab4afee9b1eeffe85496f2e771",
  "files": [
   {
    "name": "/Saint1.json",
